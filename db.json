@@ -1,0 +1,393 @@
+{
+  "student": [
+    {
+      "id": "6dfa",
+      "name": "kio",
+      "age": "bncgh",
+      "phone": "bcgh"
+    }
+  ],
+  "teacher": [
+    {
+      "id": "1121",
+      "name": "Javohir",
+      "course": "frontend"
+    },
+    {
+      "id": "3c73",
+      "course": "Standart Backend",
+      "name": "admin"
+    },
+    {
+      "id": "21bc",
+      "course": "Standart Backend",
+      "name": "admin"
+    },
+    {
+      "id": "b5df",
+      "course": "Standart Backend",
+      "name": "admin"
+    },
+    {
+      "id": "3dae",
+      "course": "Standart Backend",
+      "name": "admin"
+    },
+    {
+      "id": "6394",
+      "course": "Standart Backend",
+      "name": "admin"
+    },
+    {
+      "id": "53f7",
+      "course": "Standart Backend",
+      "name": "admin"
+    },
+    {
+      "id": "b1b9",
+      "course": "Standart Backend",
+      "name": "admin"
+    },
+    {
+      "id": "de26",
+      "course": "Standart Backend",
+      "name": "admin"
+    },
+    {
+      "id": "9214",
+      "course": "Standart Backend",
+      "name": "admin"
+    },
+    {
+      "id": "4e9d",
+      "name": "admin",
+      "course": "Standart Backend"
+    },
+    {
+      "id": "faf8",
+      "name": "a",
+      "course": "Standart Backend"
+    },
+    {
+      "id": "37ef",
+      "name": "aca",
+      "course": "Standart Backend"
+    },
+    {
+      "id": "46f5",
+      "name": "admin",
+      "course": "Standart Backend"
+    },
+    {
+      "id": "c339"
+    },
+    {
+      "id": "1cfa"
+    },
+    {
+      "id": "5963"
+    },
+    {
+      "id": "c502"
+    },
+    {
+      "id": "a0df"
+    },
+    {
+      "id": "eaad"
+    },
+    {
+      "id": "516b"
+    },
+    {
+      "id": "c6d2"
+    },
+    {
+      "id": "2607"
+    },
+    {
+      "id": "e03b"
+    },
+    {
+      "id": "df81"
+    },
+    {
+      "id": "ae00"
+    },
+    {
+      "id": "2d96",
+      "course": "Standart Backend",
+      "name": "1212121"
+    },
+    {
+      "id": "d1c6",
+      "course": "Standart Backend",
+      "name": "12"
+    },
+    {
+      "id": "dce9",
+      "name": "12",
+      "course": "Standart Backend"
+    },
+    {
+      "id": "5ccc",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "9af6",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "7df6",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "15e4",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "ee57",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "65aa",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "370f",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "5238",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "6578",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "3441",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "3a1d",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "0570",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "c90c",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "37f2",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "d911",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "6c5a",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "b98e",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "e1a4",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "a253",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "a9b7",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "d33c",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "68fa",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "52e2",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "1d39",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "63e7",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "380d",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "f41d",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "a5d5",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "7b89",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "17f0",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "5d76",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "8c07",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "ffe7",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "255a",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "f108",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "b2fc",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "d547",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "c3e3",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "5adc",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "cc80",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "0689",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "24dc",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "3f71",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "c54b",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "1055",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "db2b",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "bbce",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "981f",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    },
+    {
+      "id": "cdb9",
+      "course": "sdczzsczzs",
+      "name": "admin"
+    }
+  ],
+  "group": [
+    {
+      "id": "1121222",
+      "name": "Bootcamp frontend react js N11",
+      "course": "Backend"
+    }
+  ],
+  "course": [
+    {
+      "id": "f95e",
+      "name": "sdczzsczzs",
+      "duration": "zsczsz",
+      "price": "1200zscz"
+    }
+  ]
+}
